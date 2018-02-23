@@ -84,6 +84,10 @@ h2 { font-size: 22px; font-weight: normal; }
   .web-s { display: none; }
   body img { max-width: 100%; }
 }
+.bold {
+  margin: 20px 0;
+  font-weight: bold;
+}
 @media screen and (max-width: 720px) {
   .katyakoncakova_FtFDdVex .main-menu-blk > li { width: 33.333%; }
   .katyakoncakova_FtFDdVex .mikstroy_hlTMvYzPJs { display: none; }
